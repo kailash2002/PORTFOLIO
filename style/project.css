@@ -1,0 +1,35 @@
+.outer_body{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    background : #191b1f; 
+    width: 100%;
+    padding-top:70px;
+}
+.outerbox{
+    background: #191b1f; 
+    width:600px;
+    padding:10px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.project{
+    /* color: red; */
+    text-align: center;
+}
+.image img{
+    width: 100%;
+border-radius: 10px;
+}
+.title{
+    margin-top: 10px;
+    align-items: center;
+}
+.description{
+    font-weight: 200;
+    margin-top: 10px;
+}

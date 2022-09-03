@@ -1,0 +1,41 @@
+.outer__body{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    background : #191b1f; 
+    width: 100%;
+    padding-top: 50px;
+}
+.card{
+    text-align: center;
+}
+.outerbox{
+    background: #191b1f; 
+    width:300px;
+    padding:10px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.skill{
+    color: white;
+    padding: 20px 0px 0px 0px;
+   
+}
+.image img{
+width: 100%;
+border-radius: 10px;
+
+}
+.title{
+margin-top: 20px;
+
+}
+.descr{
+margin-top: 10px;
+line-height: 200%;
+}
